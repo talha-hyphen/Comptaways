@@ -1,0 +1,17 @@
+:root {
+  /* Colors */
+  --primary-color: #000000;
+  --secondary-color: #ffffff;
+  --text-color: #333333;
+  --background-color: #ffffff;
+
+  /* Container */
+  --container-width: 1200px;
+
+  /* Spacing */
+  --section-padding: 80px;
+  --border-radius: 8px;
+
+  /* Transition */
+  --transition: all 0.3s ease;
+}
